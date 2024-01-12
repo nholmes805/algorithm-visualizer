@@ -25,8 +25,5 @@ After launching the application:
 - Click 'Shuffle' to shuffle the array, and 'Sort' to start the visualization.
 - 'Cancel' can be used to stop the sorting process.
 
-## Contributions
-Contributions to the Sorting Algorithm Visualizer are welcome. Please feel free to fork the project, make improvements, and open a pull request with your changes.
-
 ## Contact
 For any questions or suggestions, feel free to contact me at [nholmes805@gmail.com].
